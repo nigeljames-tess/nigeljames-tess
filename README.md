@@ -10,3 +10,19 @@
 nigeljames-tess/nigeljames-tess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+# Heading
+## Sub heading
+### 
+
+- item
+- another
+- yay
+
+  1. one
+  2. two
+  3. three
+
+*Bold*
+~strike~
